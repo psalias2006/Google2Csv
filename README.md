@@ -6,6 +6,8 @@ Google2Csv is a simple google scraper that saves the results on a csv/xlsx/jsonl
 ![alt text](https://i.imgur.com/G8acZQf.png)
 
 
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 #### Legal & Disclaimer
-*Scraping google search results is illegal. This script is just a proof of concept. The author isn't responsible for the actions of the end users.*
+*This script is just a proof of concept. The author isn't responsible for the actions of the end users.*
